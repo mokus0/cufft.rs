@@ -1,0 +1,7 @@
+[package]
+name = "cufft-sys"
+version = "0.1.0"
+authors = ["James Cook <mokus@deepbondi.net>"]
+
+[build-dependencies]
+bindgen = "0.40.0"
